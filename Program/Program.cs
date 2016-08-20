@@ -9,7 +9,7 @@ namespace Program
 {
     class Program
     {
-        static void Main(string[] args) //<-TODO
+        static void Main(string[] args)
         {
             CustomQueue<object> queue = new CustomQueue<object>();
             queue.Enqueue("My name is Nataly");
